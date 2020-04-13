@@ -1,0 +1,17 @@
+commit fd6a532e8073507d855a744313aaad170888d6b1
+Author: hasslemind <karabantas84@hotmail.com>
+Date:   Mon Apr 13 11:59:18 2020 -0400
+
+    added gitignore
+
+commit 10ad6eb40902eb25b0a00ebee64db4c7c8ad4950
+Author: hasslemind <karabantas84@hotmail.com>
+Date:   Thu Apr 9 13:30:04 2020 -0400
+
+    added two files
+
+commit 18aa0caa5fa83e0132fff2a3f962ef38c338d82e
+Author: hasslemind <karabantas84@hotmail.com>
+Date:   Thu Apr 9 13:26:54 2020 -0400
+
+    added readme.txt
